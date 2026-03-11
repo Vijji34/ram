@@ -1,0 +1,2 @@
+cat file1
+hii hello ready for exam
